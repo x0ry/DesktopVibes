@@ -8,5 +8,5 @@ pip install phue - [https://github.com/studioimaginaire/phue]
 ## Cycle the desktop wallpaper based on a folder of images:
 powershell ./test.ps1
 
-## Read windows 10's color, set as your highlight/tracking, & convert RGB to XY for your phillips hue bridge.
+## Set as your highlights & convert RGB to XY for your phillips hue bridge.
 python ./test.py
