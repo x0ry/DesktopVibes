@@ -1,7 +1,7 @@
 # DesktopVibes
 Powershell + Python script to cycle your desktop wallpaper in windows 10 and color sync with your Phillips Hue lights.
 
-This is a working MVP, feel free to contribute cleaner better usable code.
+This is a working MVP, feel free to contribute.
 
 pip install phue - [https://github.com/studioimaginaire/phue]
 
